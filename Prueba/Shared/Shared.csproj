@@ -16,4 +16,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Connection\Connection.csproj" />
+    <ProjectReference Include="..\Library\Library.csproj" />
+  </ItemGroup>
+
 </Project>
